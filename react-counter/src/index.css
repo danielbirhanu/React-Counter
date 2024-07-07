@@ -1,0 +1,25 @@
+body{
+  background-color: #F5E6E8;
+}
+
+.counter-container{
+  margin: 0;
+  text-align: center;
+  background-color: #8797AF;
+}
+
+.count-display{
+  margin: 0;
+  font-size: 10em;
+  font-weight: bold;
+}
+
+.counter-button{
+  width: 150px;
+  height: 50px;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+}
